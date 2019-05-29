@@ -35,3 +35,14 @@ https://medium.com/@balaajip/optical-character-recognition-99aba2dad314
 https://dzone.com/articles/prerequisites-for-building-an-ocr-scanner-from-scr
 
 https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8
+
+27 May
+
+Google Vision API
+
+
+Text recognition in images using vision api
+https://www.youtube.com/watch?v=hmUfGkEHakM
+
+How to extract text from images using tesseract with Python(Tesseract OCR with Python)
+https://www.youtube.com/watch?v=kxHp5ng6Rgw
