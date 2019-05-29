@@ -46,3 +46,10 @@ https://www.youtube.com/watch?v=hmUfGkEHakM
 
 How to extract text from images using tesseract with Python(Tesseract OCR with Python)
 https://www.youtube.com/watch?v=kxHp5ng6Rgw
+
+
+https://medium.com/searce/tips-tricks-for-using-google-vision-api-for-text-detection-2d6d1e0c6361
+
+https://hackernoon.com/optical-character-recognition-with-google-cloud-vision-api-255bb8241235
+
+https://www.datacamp.com/community/tutorials/beginner-guide-google-vision-api
