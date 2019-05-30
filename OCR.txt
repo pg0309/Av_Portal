@@ -53,3 +53,7 @@ https://medium.com/searce/tips-tricks-for-using-google-vision-api-for-text-detec
 https://hackernoon.com/optical-character-recognition-with-google-cloud-vision-api-255bb8241235
 
 https://www.datacamp.com/community/tutorials/beginner-guide-google-vision-api
+
+
+Try to run OCR Like this
+https://github.com/Hironsan/google-vision-sampler
