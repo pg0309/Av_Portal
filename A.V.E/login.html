@@ -36,9 +36,11 @@
     }
 
     .cancelbtn {
+        position: relative;
     width: auto;
     padding: 10px 18px;
     background-color: #f44336;
+        margin-left: 185px;
     }
 
     .imgcontainer {
@@ -50,6 +52,9 @@
 
     .container {
     padding: 16px;
+        width: 500px;
+        margin-left: 435px;
+        
     }
 
     span.psw {
@@ -73,7 +78,9 @@
 
 <body>
     
-    <a href="http://avengineers.co.in/" target="_blank"><img src=".\Logo.png" alt="Company Logo" height="150" width="400"></a>
+<div class="company_logo">
+    <a href="http://avengineers.co.in/" target="_blank"><img src=".\Logo.png" alt="Company Logo" height="140" width="600"></a></div>
+    <div class="head_banner"><img src="./20.png" alt="Company Logo" height="200" width="600"></div>
 
     <div class="navbar">
         <a class="active" href="./login.html"><i class="fa fa-fw fa-home"></i>Dashboard</a> 
@@ -84,15 +91,15 @@
 
     <h2><center>Login</center></h2>
 
-    <hr size="6" width="100%" align="left" color="#4CAF50">
+    <hr size="4.5" width="100%" align="left" color="#4CAF50">
 
     <div class="imgcontainer">
-        <img src="./face.png" alt="Avatar" class="avatar">
+        <img src="./face1.png" alt="Avatar" class="avatar">
     </div>
 
     <div class="container">
         <label for="uname"><b>Username</b></label>
-        <input type="text" placeholder="Enter Username" name="uname" required>
+        <input type="text" placeholder="Enter Username" name="uname" width = "50px"required>
 
         <label for="psw"><b>Password</b></label>
         <input type="password" placeholder="Enter Password" name="psw" required>
@@ -104,8 +111,8 @@
     </div>
 
     <div class="container" style="background-color:#f1f1f1">
-        <button type="button" class="cancelbtn">Cancel</button>
-        <span class="psw">Forgot <a href="#">password?</a></span>
+        <button type="button" class="cancelbtn">Forgot Password</button>
+<!--        <span class="psw">Forgot <a href="#">password?</a></span>-->
    </div>
 
 
@@ -114,7 +121,7 @@
     <div id="contacts">
         <center>
         <p>
-            <strong>email</strong>: <a href="mailto:arunpopli@avengineers.co.in" target="_top">arunpopli@avengineers.co.in</a> | <strong>phone</strong>: (+91)-9873621215, +0124-4369023 | <strong>address</strong>: Plot No. 89, Sector 3, IMT Manesar, Gurgaon-122050 ,Haryana(India)
+            <strong>Email</strong>: <a href="mailto:arunpopli@avengineers.co.in" target="_top">arunpopli@avengineers.co.in</a> | <strong>Phone</strong>: (+91)-9873621215, +0124-4369023 | <strong>Address</strong>: Plot No. 89, Sector 3, IMT Manesar, Gurgaon-122050, Haryana(India)
         </p>
         </center>
     </div>
