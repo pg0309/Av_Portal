@@ -57,3 +57,19 @@ https://www.datacamp.com/community/tutorials/beginner-guide-google-vision-api
 
 Try to run OCR Like this
 https://github.com/Hironsan/google-vision-sampler
+
+
+Other links for info
+https://www.datacamp.com/community/tutorials/machine-learning-models-api-python?tap_a=5644-dce66f&tap_s=3575
+
+https://support.foxtrotalliance.com/hc/en-us/articles/360024282351-How-To-Use-Google-Cloud-Vision-API-OCR-Image-Analysis-
+
+https://angularfirebase.com/lessons/advanced-cloud-vision-ocr-text-extraction/
+
+https://github.com/GoogleCloudPlatform/cloud-vision/tree/master/python/text
+
+https://cloud.google.com/pubsub/docs/quickstart-cli
+
+https://cloud.google.com/vision/docs/detecting-fulltext#vision-document-text-detection-python
+
+https://cloud.google.com/vision/docs/ocr#vision-detect-text-gcloud
