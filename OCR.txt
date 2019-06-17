@@ -73,3 +73,9 @@ https://cloud.google.com/pubsub/docs/quickstart-cli
 https://cloud.google.com/vision/docs/detecting-fulltext#vision-document-text-detection-python
 
 https://cloud.google.com/vision/docs/ocr#vision-detect-text-gcloud
+
+
+OCR Resources 
+https://www.cloudmersive.com/image-recognition-and-processing-api
+
+https://ocr.space/
