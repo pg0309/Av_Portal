@@ -76,6 +76,10 @@ https://cloud.google.com/vision/docs/ocr#vision-detect-text-gcloud
 
 
 OCR Resources 
+Google VISION API
+Tessract
+Amazon tessract
 https://www.cloudmersive.com/image-recognition-and-processing-api
 
 https://ocr.space/
+https://rapidapi.com/WORDAPIS/api/text-document-extract
